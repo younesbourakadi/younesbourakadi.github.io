@@ -77,6 +77,8 @@ a {
 .section-2 a:hover {
   font-size: 1.3rem;
   /* color: #fff; */
+  /* color: #fff; */
+
   color: #b9b8d3;
 
   cursor: pointer;
